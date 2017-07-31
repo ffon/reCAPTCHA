@@ -18,7 +18,7 @@
         document.getElementById('btn_submit').disabled = false;  
   }
   </script>
-  <div class="g-recaptcha" data-callback="makeaction" data-sitekey="6LecISsUAAAAAJJd8QorLsL8KOAOBd6bjdQgf1nc"></div>
+  <div class="g-recaptcha" data-callback="makeaction" data-sitekey="6Ld8ICsUAAAAAAcQdF3S6-VxoGlqU8X8AXL7cTBC"></div>
   <div>
   <br>
     <button type="submit" id="btn_submit" name="btn_submit" disabled>Send Message</button>
